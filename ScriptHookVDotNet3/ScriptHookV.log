@@ -1,0 +1,63 @@
+// GTA V SCRIPT HOOK (build Sep 28 2024, v1.0.3337.0)
+//     (C) Alexander Blade 2015-2024
+[11:59:14] INIT: Started
+[11:59:14] INIT: Success, game version is VER_1_0_3274_0
+[11:59:14] INIT: Registering script 'ChaosMod.asi' (0x00007FFBA90EB660)
+[11:59:15] INIT: Registering script 'Menyoo.asi' (0x00007FFB49C1C750)
+[11:59:15] INIT: Registering additional script thread 'Menyoo.asi' (0x00007FFB49C2C0A0)
+[11:59:15] INIT: Registering script 'NativeTrainer.asi' (0x00007FFBA8F7A3C0)
+[11:59:15] INIT: Registering script 'NIBSHDotNet_loader.asi' (0x00007FFBE2E41DB0)
+[11:59:15] INIT: Registering script 'ObjectSpawnUnlockNbuild.asi' (0x00007FFBE2E31C70)
+[11:59:15] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FFB3A6D2830)
+[11:59:28] INIT: Pool 1 extended
+[11:59:28] INIT: Pool 2 extended
+[11:59:29] INIT: Pool 3 extended
+[11:59:29] INIT: Pool 4 extended
+[11:59:34] INIT: GtaThread collection size 189
+[11:59:34] INIT: wnd proc 0x00000000FFFF092B
+[11:59:34] INIT: IDXGISwapChain 0x00007FFBE452A000 (0x00007FFBE44918C0)
+[11:59:34] INIT: IDXGISwapChain set
+[11:59:34] INIT: DX init started
+[11:59:34] INIT: DX feature level B000
+[11:59:34] INIT: DX init succeeded
+[12:00:57] CORE: Requesting thread creation
+[12:00:57] CORE: Creating threads
+[12:01:03] CORE: Started control thread, id 36 active 1
+[12:01:03] CORE: Started thread 'ChaosMod.asi' (0x00007FFBA90EB660), id 37 active 1
+[12:01:03] CORE: Started thread 'Menyoo.asi' (0x00007FFB49C1C750), id 38 active 1
+[12:01:03] CORE: Started thread 'Menyoo.asi' (0x00007FFB49C2C0A0), id 39 active 1
+[12:01:03] CORE: Started thread 'NativeTrainer.asi' (0x00007FFBA8F7A3C0), id 40 active 1
+[12:01:03] CORE: Started thread 'NIBSHDotNet_loader.asi' (0x00007FFBE2E41DB0), id 41 active 1
+[12:01:03] CORE: Started thread 'ObjectSpawnUnlockNbuild.asi' (0x00007FFBE2E31C70), id 42 active 1
+[12:01:03] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FFB3A6D2830), id 43 active 1
+[12:01:03] CORE: Launching main() for 'ChaosMod.asi' (0x00007FFBA90EB660), id 37
+[12:01:04] CORE: Launching main() for 'Menyoo.asi' (0x00007FFB49C1C750), id 38
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_orange.png', id 0
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_orange.png', id 1
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\needle_red.png', id 2
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\night_needle_red.png', id 3
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan2.png', id 4
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green2.png', id 5
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow2.png', id 6
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange2.png', id 7
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple2.png', id 8
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink2.png', id 9
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_cyan.png', id 10
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_green.png', id 11
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_yellow.png', id 12
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_orange.png', id 13
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_purple.png', id 14
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Speedo\bg_pink.png', id 15
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_face.png', id 16
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handh.png', id 17
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Clock\Default_handm.png', id 18
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_face.png', id 19
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handh.png', id 20
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\Clock\Frameless_handm.png', id 21
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxKeyboard.png', id 22
+[12:01:04] CORE: Creating texture 'D:\Games-kuyhAa\Grand Theft Auto V\menyooStuff\Graphics\teleportToWaypointBoxGamepad.png', id 23
+[12:01:05] CORE: Launching main() for 'Menyoo.asi' (0x00007FFB49C2C0A0), id 39
+[12:01:05] CORE: Launching main() for 'NativeTrainer.asi' (0x00007FFBA8F7A3C0), id 40
+[12:01:05] CORE: Launching main() for 'NIBSHDotNet_loader.asi' (0x00007FFBE2E41DB0), id 41
+[12:01:05] CORE: Launching main() for 'ObjectSpawnUnlockNbuild.asi' (0x00007FFBE2E31C70), id 42
+[12:01:05] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FFB3A6D2830), id 43
